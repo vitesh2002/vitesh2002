@@ -1,12 +1,21 @@
-<h1 align="center">Hi 👋, I'm Namburu sai srinivas vitesh</h1>
-<h3 align="center">Software Engineer | Python Enthusiast | Cloud & Backend Developer</h3>
+<h1 align="center">Hi 👋, I'm Namburu Sai Srinivas Vitesh</h1>
+<h3 align="center">Backend Engineer | Agentic AI Developer | LLM Integration Expert</h3>
 
 ---
 
-💡 Passionate about building **scalable cloud-based applications** and **embedded software**  
-🚀 Skilled in API Development, Infrastructure Automation & Data Synchronization  
-🔧 Strong problem-solver with love for clean code, performance optimization, and automation  
-🌍 Open to remote opportunities
+💡 Passionate about building **scalable backend systems**, **Agentic AI pipelines**, and **cloud-native applications**  
+🧠 Experienced in developing **multi-agent orchestration**, **chatbots**, and **LLM-powered automation systems**  
+🚀 Skilled in API Development, Workflow Automation, and System Optimization  
+🌍 Open to remote and hybrid opportunities
+
+---
+
+### 🧠 Agentic AI & LLM Expertise
+
+- 🔁 Built **multi-agent orchestration engines** using **AutoGen**, **CrewAI**, and **LangGraph**
+- 🗃️ Integrated **OpenAI's embedding-3-small** for scalable vector search (5x reduction in storage/query cost)
+- 🧩 Developed **context-aware chatbots** using PDFs, wikis, websites (via **Playwright**)
+- 🎯 Used **PydanticAI** and **LangGraph** for intelligent task routing and dynamic collaboration
 
 ---
 
@@ -21,6 +30,8 @@
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pgvector-6E4EBA?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
@@ -33,22 +44,25 @@
 📍 *Noida, India*  
 🗓️ *June 2023 – Present*
 
-- 🚀 Improved API response time by **30%** through optimized query handling and resource management  
-- 🔐 Integrated multiple CRMs via **OAuth**, enabling automatic mail database access and enhanced workflow automation  
-- ✅ Boosted test case coverage by **50%** using Pytest  
-- ⚡ Reduced page load time by **~60%** by optimizing database queries  
-- 🧠 Built **wizard-based visual workflows** in Django using advanced statistical techniques  
-- 💾 Hands-on experience with **PostgreSQL** and **MongoDB**
+- 🤖 Architected **Agentic AI systems** using **AutoGen**, **CrewAI**, and **LangGraph** for intelligent task workflows  
+- 📊 Built **LLM-powered feedback intelligence pipelines** analyzing sentiment/emotion/toxicity from platforms like Twitter  
+- 🧠 Developed a **multi-agent system** where a master agent delegates to specialized agents (e.g., analytics, tech support)  
+- 🔐 Integrated **OAuth2 CRMs** (Zoho, HubSpot) for auto-syncing email data  
+- ⚙️ Enhanced Django APIs and dashboards with statistical computation and data visualization  
+- 🚀 Optimized slow endpoints to reduce latency by ~60%; improved query performance by 30%
 
 ---
 
 ### 📂 Featured Projects
 
-#### 📌 API Development for Cloud-Based Microservices  
-RESTful APIs built to power a microservices-based cloud architecture. Secure, scalable, and integrated with PostgreSQL/MongoDB for real-time data handling.
+#### 🤖 Multi-Agent AI Workflow Engine  
+Internal orchestration engine using AutoGen, where master agents route tasks to assistant agents via LangGraph logic.
 
-#### 📌 Sentiment Analysis & Feedback System  
-Python-powered NLP tool that processes emails & social media feedback for **sentiment, emotion & toxicity**, with a user-friendly visualization dashboard.
+#### 📡 Sentiment & Feedback Intelligence System  
+End-to-end pipeline for emotion and toxicity analysis of user reviews, powered by LLMs and visualized on dashboards.
+
+#### 📦 Embedded Chatbot with Context Indexing  
+Scalable chatbot using OpenAI embedding-3-small model and Playwright for crawling web and PDF-based context.
 
 ---
 
